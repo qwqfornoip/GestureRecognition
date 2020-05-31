@@ -11,6 +11,14 @@
 - Pattern recognition （CVIU / IEEE TIP）
 
   https://github.com/jinwchoi/awesome-action-recognition
+  
+- Vocalization sign language iOS App with deep learning using CoreML.
+
+  https://github.com/ardamavi/Vocalization-Sign-Language-iOS
+
+- 3D Hand Tracking using input from a depth sensor.
+
+  https://github.com/FORTH-ModelBasedTracker/HandTracker
 
 ### 论文
 
